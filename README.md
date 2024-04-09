@@ -1,5 +1,5 @@
 # CBHS-React-work-shop
-Simple react workshop by SHPEUF to educate CBHS students on basic react hooks
+Simple react workshop by SHPEUF to educate CBHS students on basic React hooks
 
 # What is this repo about?
 This repo contains code for a basic counter app! To showcase how useSate allows for app re-rendering after user input
